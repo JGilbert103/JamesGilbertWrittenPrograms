@@ -1,3 +1,12 @@
+/*
+* Title:            GamblingManager.cs
+* Author:           James (Jake) Gilbert
+* Email:            jgilbert10345@gmail.com
+* LinkedIn          https://www.linkedin.com/in/james-gilbert-2a79b1265/
+* Description:      A simple higher/lower game I made for my game in Unity.
+*/
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
