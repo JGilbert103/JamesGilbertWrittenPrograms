@@ -1,12 +1,14 @@
+//Discord Bot to retrieve a link from the Steam Workshop based on the command
+
 import requests
 from bs4 import BeautifulSoup
 import discord
 from discord.ext import commands
 from discord_slash import SlashCommand
 
-BOT_TOKEN = "MTA4NzUzMjAxODk1NjUwNTE2MA.G2yB5_.5Ip1gpuvvzWRHzSqPwIsAN0liSwpmeG85qhdjs";
-Channel_ID = 1087530954794483744;
-guildID = 1087528258960117800;
+BOT_TOKEN = ***;
+Channel_ID = ***;
+guildID = ***;
 
 intents = discord.Intents.default()
 bot = commands.Bot(command_prefix='w.', intents = intents);
