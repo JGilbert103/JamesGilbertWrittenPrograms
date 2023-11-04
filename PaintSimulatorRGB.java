@@ -1,3 +1,5 @@
+//Obtain information from the file to sort and organize for the use of writing code
+
 package paintsimulatorrgb;
 import java.util.*;
 import java.io.*;
