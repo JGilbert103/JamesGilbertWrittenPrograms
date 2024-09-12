@@ -1,0 +1,538 @@
+06/11/24:22:26:52
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:26:52
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:27:18
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:27:18
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:27:46
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:27:46
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:28:14
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:28:14
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:28:40
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:28:40
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:29:07
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:29:07
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:29:33
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:29:33
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:29:59
+Item: MP9 | Hydra, Price: $6.60, Percentage: 11.0
+06/11/24:22:29:59
+Item: AK-47 | Nightwish, Price: $15.00, Percentage: 11.4
+06/11/24:22:40:43
+Item: MAC-10 | Disco Tech, Price: $4.00, Percentage: 14.4
+06/11/24:22:41:10
+Item: MAC-10 | Disco Tech, Price: $4.00, Percentage: 14.4
+06/11/24:22:41:35
+Item: MAC-10 | Disco Tech, Price: $4.00, Percentage: 14.4
+06/11/24:22:42:02
+Item: MAC-10 | Disco Tech, Price: $4.00, Percentage: 14.4
+06/12/24:00:08:08
+Item: AK-47 | Aquamarine Revenge, Price: $108.00, Percentage: 10.4
+06/12/24:00:08:33
+Item: AK-47 | Aquamarine Revenge, Price: $108.00, Percentage: 10.4
+06/12/24:00:09:02
+Item: AK-47 | Aquamarine Revenge, Price: $108.00, Percentage: 10.4
+06/12/24:00:09:26
+Item: AK-47 | Aquamarine Revenge, Price: $108.00, Percentage: 10.4
+06/12/24:00:09:52
+Item: AK-47 | Aquamarine Revenge, Price: $108.00, Percentage: 10.4
+06/12/24:00:46:24
+Item: ★ Sport Gloves | Amphibious, Price: $492.92, Percentage: 11.3
+06/12/24:00:46:51
+Item: ★ Sport Gloves | Amphibious, Price: $492.92, Percentage: 11.3
+06/12/24:00:47:17
+Item: ★ Sport Gloves | Amphibious, Price: $492.92, Percentage: 11.3
+06/12/24:01:05:01
+Item: M4A4 | Tooth Fairy, Price: $1.50, Percentage: 18.1
+06/18/24:15:21:55
+Item: ★ Kukri Knife | Urban Masked, Price: $160.39, Percentage: 11.2
+06/18/24:15:22:23
+Item: ★ Kukri Knife | Urban Masked, Price: $160.39, Percentage: 11.2
+06/18/24:15:34:51
+Item: ★ Butterfly Knife | Marble Fade, Price: $1,820.00, Percentage: 12.1
+06/18/24:15:35:20
+Item: ★ Butterfly Knife | Marble Fade, Price: $1,820.00, Percentage: 12.1
+06/18/24:15:35:51
+Item: ★ Butterfly Knife | Marble Fade, Price: $1,820.00, Percentage: 12.1
+06/18/24:15:36:21
+Item: ★ Butterfly Knife | Marble Fade, Price: $1,799.00, Percentage: 13.1
+06/18/24:15:36:50
+Item: ★ Butterfly Knife | Marble Fade, Price: $1,799.00, Percentage: 13.1
+06/18/24:15:37:18
+Item: ★ Butterfly Knife | Marble Fade, Price: $1,799.00, Percentage: 13.1
+06/18/24:17:07:04
+Item: USP-S | Stainless, Price: $3.10, Percentage: 10.2
+06/18/24:17:14:56
+Item: USP-S | Royal Blue, Price: $15.79, Percentage: 11.4
+06/18/24:17:25:18
+Item: XM1014 | Entombed, Price: $3.45, Percentage: 10.7
+06/18/24:17:26:16
+Item: Dark Water Surf Ava (Foil), Price: $3.88, Percentage: 12.1
+06/18/24:17:26:44
+Item: Dark Water Surf Ava (Foil), Price: $3.88, Percentage: 12.1
+06/18/24:17:27:14
+Item: AK-47 | Redline, Price: $34.36, Percentage: 11.5
+06/18/24:17:29:31
+Item: ★ Specialist Gloves | Lt. Commander, Price: $285.94, Percentage: 10.9
+06/18/24:17:29:59
+Item: ★ Specialist Gloves | Lt. Commander, Price: $285.94, Percentage: 10.9
+06/18/24:17:30:29
+Item: ★ Specialist Gloves | Lt. Commander, Price: $285.94, Percentage: 10.9
+06/18/24:17:43:49
+Item: SSG 08 | Carbon Fiber, Price: $0.58, Percentage: 10.8
+06/18/24:17:44:21
+Item: SSG 08 | Carbon Fiber, Price: $0.58, Percentage: 10.8
+06/18/24:17:57:25
+Item: MP9 | Airlock, Price: $1.52, Percentage: 14.2
+06/18/24:18:02:00
+Item: M4A1-S | Decimator, Price: $8.76, Percentage: 10.7
+06/18/24:18:04:13
+Item: M4A4 | Temukau, Price: $11.30, Percentage: 10.0
+06/18/24:18:05:36
+Item: MAC-10 | Sakkaku, Price: $0.66, Percentage: 16.5
+06/18/24:18:26:54
+Item: MP7 | Abyssal Apparition, Price: $0.59, Percentage: 15.8
+06/18/24:18:26:54
+Item: P250 | Cyber Shell, Price: $0.95, Percentage: 10.4
+06/18/24:18:27:22
+Item: P250 | Cyber Shell, Price: $0.95, Percentage: 10.4
+06/18/24:18:27:53
+Item: P250 | Cyber Shell, Price: $0.95, Percentage: 10.4
+06/18/24:18:28:25
+Item: P250 | Cyber Shell, Price: $0.95, Percentage: 10.4
+06/18/24:19:01:29
+Item: Desert Eagle | Printstream, Price: $71.81, Percentage: 10.1
+06/18/24:19:01:57
+Item: Desert Eagle | Printstream, Price: $71.81, Percentage: 10.1
+06/18/24:19:02:28
+Item: Desert Eagle | Printstream, Price: $71.81, Percentage: 10.1
+06/18/24:19:02:58
+Item: Desert Eagle | Printstream, Price: $71.81, Percentage: 10.1
+06/18/24:19:08:08
+Item: MP7 | Akoben, Price: $0.67, Percentage: 14.2
+06/20/24:18:30:57
+Item: USP-S | The Traitor, Price: $7.70, Percentage: 11.9
+06/20/24:18:54:28
+Item: Sir Bloody Skullhead Darryl | The Professionals, Price: $18.44, Percentage: 10.1
+06/20/24:18:54:54
+Item: Sir Bloody Skullhead Darryl | The Professionals, Price: $18.44, Percentage: 10.1
+06/20/24:18:57:37
+Item: MAC-10 | Disco Tech, Price: $1.71, Percentage: 11.9
+06/20/24:18:57:37
+Item: Glock-18 | Water Elemental, Price: $2.67, Percentage: 15.3
+06/20/24:19:09:32
+Item: ★ Bayonet | Marble Fade, Price: $547.60, Percentage: 10.0
+06/20/24:19:10:02
+Item: ★ Bayonet | Marble Fade, Price: $547.60, Percentage: 10.0
+06/20/24:19:10:29
+Item: ★ Bayonet | Marble Fade, Price: $547.60, Percentage: 10.0
+06/20/24:19:10:59
+Item: ★ Bayonet | Marble Fade, Price: $547.60, Percentage: 10.0
+06/20/24:19:11:26
+Item: ★ Bayonet | Marble Fade, Price: $547.60, Percentage: 10.0
+06/20/24:19:14:57
+Item: P250 | Supernova, Price: $0.57, Percentage: 13.7
+06/20/24:19:14:57
+Item: M249 | Aztec, Price: $0.69, Percentage: 13.8
+06/20/24:19:14:57
+Item: SG 553 | Gator Mesh, Price: $1.27, Percentage: 13.7
+06/20/24:19:14:57
+Item: UMP-45 | Primal Saber, Price: $1.28, Percentage: 13.6
+06/20/24:19:14:57
+Item: P2000 | Pulse, Price: $1.45, Percentage: 13.7
+06/20/24:19:14:57
+Item: Galil AR | Kami, Price: $2.19, Percentage: 13.8
+06/20/24:19:14:57
+Item: SSG 08 | Fever Dream, Price: $2.21, Percentage: 13.7
+06/20/24:19:14:57
+Item: MAC-10 | Allure, Price: $2.70, Percentage: 14.1
+06/20/24:19:15:28
+Item: ★ Hand Wraps | Desert Shamagh, Price: $66.92, Percentage: 11.1
+06/20/24:19:15:28
+Item: P250 | Supernova, Price: $0.57, Percentage: 13.7
+06/20/24:19:15:28
+Item: M249 | Aztec, Price: $0.69, Percentage: 13.8
+06/20/24:19:15:28
+Item: SG 553 | Gator Mesh, Price: $1.27, Percentage: 13.7
+06/20/24:19:15:28
+Item: UMP-45 | Primal Saber, Price: $1.28, Percentage: 13.6
+06/20/24:19:15:28
+Item: P2000 | Pulse, Price: $1.45, Percentage: 13.7
+06/20/24:19:15:28
+Item: SSG 08 | Fever Dream, Price: $2.21, Percentage: 13.7
+06/20/24:19:15:28
+Item: MAC-10 | Allure, Price: $2.70, Percentage: 14.1
+06/20/24:19:15:58
+Item: ★ Hand Wraps | Desert Shamagh, Price: $66.92, Percentage: 11.1
+06/20/24:19:15:58
+Item: P250 | Supernova, Price: $0.57, Percentage: 13.7
+06/20/24:19:15:58
+Item: M249 | Aztec, Price: $0.69, Percentage: 13.8
+06/20/24:19:15:58
+Item: SG 553 | Gator Mesh, Price: $1.27, Percentage: 13.7
+06/20/24:19:15:58
+Item: UMP-45 | Primal Saber, Price: $1.28, Percentage: 13.6
+06/20/24:19:15:58
+Item: P2000 | Pulse, Price: $1.45, Percentage: 13.7
+06/20/24:19:15:58
+Item: SSG 08 | Fever Dream, Price: $2.21, Percentage: 13.7
+06/20/24:19:16:28
+Item: ★ Hand Wraps | Desert Shamagh, Price: $66.92, Percentage: 11.1
+06/20/24:19:16:28
+Item: P250 | Supernova, Price: $0.57, Percentage: 13.7
+06/20/24:19:16:28
+Item: M249 | Aztec, Price: $0.69, Percentage: 13.8
+06/20/24:19:16:28
+Item: SG 553 | Gator Mesh, Price: $1.27, Percentage: 13.7
+06/20/24:19:16:28
+Item: UMP-45 | Primal Saber, Price: $1.28, Percentage: 13.6
+06/20/24:19:16:28
+Item: P2000 | Pulse, Price: $1.45, Percentage: 13.7
+06/20/24:19:16:55
+Item: ★ Hand Wraps | Desert Shamagh, Price: $66.92, Percentage: 11.1
+06/20/24:19:16:55
+Item: P250 | Supernova, Price: $0.57, Percentage: 13.7
+06/20/24:19:16:55
+Item: M249 | Aztec, Price: $0.69, Percentage: 13.8
+06/20/24:19:16:55
+Item: SG 553 | Gator Mesh, Price: $1.27, Percentage: 13.7
+06/20/24:19:16:55
+Item: UMP-45 | Primal Saber, Price: $1.28, Percentage: 13.6
+06/20/24:19:16:55
+Item: P2000 | Pulse, Price: $1.45, Percentage: 13.7
+06/20/24:19:17:24
+Item: ★ Hand Wraps | Desert Shamagh, Price: $66.92, Percentage: 11.1
+06/20/24:19:17:24
+Item: P250 | Supernova, Price: $0.57, Percentage: 13.7
+06/20/24:19:17:24
+Item: M249 | Aztec, Price: $0.69, Percentage: 13.8
+06/20/24:19:17:55
+Item: ★ Hand Wraps | Desert Shamagh, Price: $66.92, Percentage: 11.1
+06/20/24:19:17:55
+Item: P250 | Supernova, Price: $0.57, Percentage: 13.7
+06/20/24:19:18:23
+Item: ★ Hand Wraps | Desert Shamagh, Price: $66.92, Percentage: 11.1
+06/20/24:20:14:01
+Item: ★ Skeleton Knife | Slaughter, Price: $637.00, Percentage: 10.0
+06/20/24:20:14:26
+Item: ★ Skeleton Knife | Slaughter, Price: $637.00, Percentage: 10.0
+06/21/24:17:16:27
+Item: AK-47 | Redline, Price: $11.33, Percentage: 10.1
+06/21/24:17:16:27
+Item: Desert Eagle | Conspiracy, Price: $4.11, Percentage: 10.1
+06/21/24:17:16:27
+Item: Desert Eagle | Meteorite, Price: $0.81, Percentage: 11.0
+06/21/24:17:16:58
+Item: AK-47 | Redline, Price: $11.33, Percentage: 10.1
+06/21/24:17:16:58
+Item: Desert Eagle | Meteorite, Price: $0.81, Percentage: 11.0
+06/21/24:17:37:47
+Item: ★ Kukri Knife | Night Stripe, Price: $174.00, Percentage: 13.9
+06/21/24:18:08:57
+Item: SSG 08 | Threat Detected, Price: $27.00, Percentage: 11.7
+06/21/24:18:09:24
+Item: SSG 08 | Threat Detected, Price: $27.00, Percentage: 11.7
+06/21/24:18:09:53
+Item: SSG 08 | Threat Detected, Price: $27.00, Percentage: 11.7
+06/21/24:18:10:23
+Item: SSG 08 | Threat Detected, Price: $27.00, Percentage: 11.7
+06/21/24:18:18:18
+Item: Operation Hydra Case, Price: $15.70, Percentage: 11.0
+06/21/24:18:18:18
+Item: Operation Hydra Case, Price: $15.70, Percentage: 11.0
+06/21/24:18:21:24
+Item: CZ75-Auto | Eco, Price: $1.10, Percentage: 12.7
+06/21/24:18:58:46
+Item: ★ Kukri Knife | Slaughter, Price: $503.33, Percentage: 10.1
+06/21/24:18:59:16
+Item: ★ Kukri Knife | Slaughter, Price: $503.33, Percentage: 10.1
+06/21/24:18:59:46
+Item: ★ Kukri Knife | Slaughter, Price: $503.33, Percentage: 10.1
+06/21/24:19:00:15
+Item: ★ Kukri Knife | Slaughter, Price: $503.33, Percentage: 10.1
+06/21/24:19:03:22
+Item: ★ M9 Bayonet | Marble Fade, Price: $1,259.99, Percentage: 11.4
+06/21/24:19:03:54
+Item: ★ M9 Bayonet | Marble Fade, Price: $1,259.99, Percentage: 11.4
+06/21/24:19:29:28
+Item: MAG-7 | Seabird, Price: $2.08, Percentage: 10.0
+06/21/24:19:47:47
+Item: M4A4 | Neo-Noir, Price: $4.73, Percentage: 11.1
+06/21/24:19:48:17
+Item: M4A4 | Neo-Noir, Price: $4.73, Percentage: 11.1
+06/21/24:19:55:11
+Item: SG 553 | Pulse, Price: $8.60, Percentage: 13.8
+06/21/24:20:08:50
+Item: ★ Butterfly Knife | Tiger Tooth, Price: $1,507.64, Percentage: 10.1
+06/21/24:20:09:20
+Item: ★ Butterfly Knife | Tiger Tooth, Price: $1,507.64, Percentage: 10.1
+06/21/24:22:04:35
+Item: ESL One Cologne 2014 Legends, Price: $73.64, Percentage: 10.1
+06/21/24:22:04:35
+Item: ESL One Cologne 2014 Legends, Price: $73.64, Percentage: 10.1
+06/21/24:22:16:06
+Item: ★ Driver Gloves | Overtake, Price: $78.89, Percentage: 12.9
+06/21/24:22:21:16
+Item: MAC-10 | Sakkaku, Price: $0.69, Percentage: 12.7
+06/21/24:23:12:55
+Item: Desert Eagle | Crimson Web, Price: $6.00, Percentage: 10.5
+06/21/24:23:24:41
+Item: SSG 08 | Fever Dream, Price: $1.08, Percentage: 10.0
+06/21/24:23:24:41
+Item: AUG | Syd Mead, Price: $1.17, Percentage: 10.0
+06/21/24:23:25:12
+Item: SSG 08 | Fever Dream, Price: $1.08, Percentage: 10.0
+06/21/24:23:25:39
+Item: SSG 08 | Fever Dream, Price: $1.08, Percentage: 10.0
+06/21/24:23:33:58
+Item: UMP-45 | Wild Child, Price: $9.64, Percentage: 10.1
+06/21/24:23:34:26
+Item: UMP-45 | Wild Child, Price: $9.64, Percentage: 10.1
+06/21/24:23:34:55
+Item: UMP-45 | Wild Child, Price: $9.49, Percentage: 11.5
+06/21/24:23:35:49
+Item: UMP-45 | Wild Child, Price: $9.49, Percentage: 11.5
+06/21/24:23:36:16
+Item: UMP-45 | Wild Child, Price: $9.49, Percentage: 11.5
+06/21/24:23:36:43
+Item: UMP-45 | Wild Child, Price: $9.49, Percentage: 11.5
+06/21/24:23:43:15
+Item: Desert Eagle | Night, Price: $11.00, Percentage: 11.0
+06/22/24:00:01:56
+Item: USP-S | Stainless, Price: $5.50, Percentage: 16.3
+06/22/24:00:07:42
+Item: ENCE (Gold) | Copenhagen 2024, Price: $0.79, Percentage: 14.2
+06/22/24:00:08:14
+Item: ENCE (Gold) | Copenhagen 2024, Price: $0.79, Percentage: 14.2
+06/22/24:00:14:29
+Item: Desert Eagle | Light Rail, Price: $1.08, Percentage: 14.3
+06/22/24:00:14:29
+Item: AK-47 | Uncharted, Price: $0.77, Percentage: 14.5
+06/22/24:00:14:59
+Item: Desert Eagle | Light Rail, Price: $1.08, Percentage: 14.3
+06/22/24:00:14:59
+Item: AK-47 | Uncharted, Price: $0.77, Percentage: 14.5
+06/22/24:00:15:26
+Item: Desert Eagle | Light Rail, Price: $1.08, Percentage: 14.3
+06/22/24:00:15:26
+Item: AK-47 | Uncharted, Price: $0.77, Percentage: 14.5
+06/22/24:00:15:56
+Item: Desert Eagle | Light Rail, Price: $0.99, Percentage: 21.5
+06/22/24:00:15:56
+Item: AK-47 | Uncharted, Price: $0.77, Percentage: 14.5
+06/22/24:00:21:44
+Item: Five-SeveN | Copper Galaxy, Price: $18.25, Percentage: 10.1
+06/22/24:00:22:15
+Item: Five-SeveN | Copper Galaxy, Price: $18.25, Percentage: 10.1
+06/22/24:00:22:47
+Item: Five-SeveN | Copper Galaxy, Price: $18.25, Percentage: 10.1
+06/22/24:00:23:16
+Item: Five-SeveN | Copper Galaxy, Price: $18.25, Percentage: 10.1
+07/15/24:01:26:28
+Item: Prof. Shahmat | Elite Crew, Price: $2.15, Percentage: 10.8
+07/15/24:01:26:56
+Item: Prof. Shahmat | Elite Crew, Price: $2.15, Percentage: 10.8
+07/15/24:01:27:23
+Item: Prof. Shahmat | Elite Crew, Price: $2.15, Percentage: 10.8
+07/15/24:01:48:59
+Item: P2000 | Imperial Dragon, Price: $1.85, Percentage: 11.1
+07/15/24:01:49:28
+Item: P2000 | Imperial Dragon, Price: $1.85, Percentage: 11.1
+07/15/24:01:49:59
+Item: P2000 | Imperial Dragon, Price: $1.85, Percentage: 11.1
+07/15/24:17:15:36
+Item: FAMAS | Pulse, Price: $5.22, Percentage: 10.0
+07/15/24:17:16:05
+Item: FAMAS | Pulse, Price: $5.22, Percentage: 10.0
+07/15/24:18:10:29
+Item: ★ Classic Knife | Fade, Price: $507.79, Percentage: 12.5
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:31:48
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:18:32:15
+Item: Berlin 2019 Minor Challengers Autograph Capsule, Price: $1.94, Percentage: 12.3
+07/15/24:19:38:49
+Item: ★ Talon Knife | Damascus Steel, Price: $305.00, Percentage: 10.3
+07/15/24:19:44:08
+Item: M4A1-S | Mud-Spec, Price: $1.83, Percentage: 10.3
+07/15/24:19:44:40
+Item: AK-47 | Steel Delta, Price: $0.90, Percentage: 10.9
+07/15/24:19:44:40
+Item: M4A1-S | Mud-Spec, Price: $1.83, Percentage: 10.3
+07/15/24:19:45:11
+Item: AWP | Black Nile, Price: $3.95, Percentage: 13.2
+07/15/24:19:45:11
+Item: AK-47 | Steel Delta, Price: $0.90, Percentage: 10.9
+07/15/24:19:45:11
+Item: M4A1-S | Mud-Spec, Price: $1.83, Percentage: 10.3
+07/15/24:19:45:41
+Item: AWP | Black Nile, Price: $3.95, Percentage: 13.2
+07/15/24:19:45:41
+Item: AK-47 | Steel Delta, Price: $0.90, Percentage: 10.9
+07/15/24:19:45:41
+Item: M4A1-S | Mud-Spec, Price: $1.83, Percentage: 10.3
+07/15/24:19:57:51
+Item: Galil AR | Rocket Pop, Price: $1.60, Percentage: 13.1
+07/15/24:19:58:23
+Item: Galil AR | Rocket Pop, Price: $1.60, Percentage: 13.1
+07/15/24:19:58:50
+Item: Galil AR | Rocket Pop, Price: $1.60, Percentage: 13.1
+07/15/24:19:59:20
+Item: Galil AR | Rocket Pop, Price: $1.60, Percentage: 13.1
+07/15/24:19:59:51
+Item: Galil AR | Rocket Pop, Price: $1.60, Percentage: 13.1
+07/15/24:20:02:02
+Item: MAC-10 | Allure, Price: $0.92, Percentage: 10.7
+07/15/24:20:02:31
+Item: MAC-10 | Allure, Price: $0.92, Percentage: 10.7
+07/15/24:20:03:01
+Item: MAC-10 | Allure, Price: $0.92, Percentage: 10.7
+07/15/24:20:03:29
+Item: MAC-10 | Allure, Price: $0.92, Percentage: 10.7
+07/15/24:20:12:34
+Item: P2000 | Wicked Sick, Price: $0.79, Percentage: 10.3
+07/16/24:15:38:43
+Item: CS:GO Weapon Case 2, Price: $10.48, Percentage: 12.0
+07/16/24:15:38:43
+Item: CS:GO Weapon Case 3, Price: $5.82, Percentage: 10.6
+07/16/24:15:54:26
+Item: MAC-10 | Stalker, Price: $29.98, Percentage: 10.1
+07/16/24:15:54:54
+Item: MAC-10 | Stalker, Price: $29.98, Percentage: 10.1
+07/16/24:16:19:27
+Item: ★ Bowie Knife | Bright Water, Price: $97.85, Percentage: 11.0
+07/16/24:16:41:27
+Item: Glock-18 | Wasteland Rebel, Price: $2.00, Percentage: 13.1
+07/16/24:16:41:27
+Item: USP-S | Purple DDPAT, Price: $4.00, Percentage: 17.6
+07/16/24:16:41:57
+Item: Glock-18 | Wasteland Rebel, Price: $2.00, Percentage: 13.1
+07/16/24:16:41:57
+Item: USP-S | Purple DDPAT, Price: $4.00, Percentage: 17.6
+07/16/24:16:43:19
+Item: P2000 | Amber Fade, Price: $7.75, Percentage: 11.1
+07/16/24:16:43:19
+Item: P2000 | Amber Fade, Price: $7.75, Percentage: 14.9
+07/16/24:16:43:49
+Item: P2000 | Amber Fade, Price: $7.75, Percentage: 11.1
+07/16/24:16:43:49
+Item: P2000 | Amber Fade, Price: $7.75, Percentage: 14.9
+07/16/24:16:47:50
+Item: USP-S | Monster Mashup, Price: $16.87, Percentage: 12.7
+07/16/24:16:48:20
+Item: USP-S | Monster Mashup, Price: $16.87, Percentage: 12.7
+07/16/24:16:48:48
+Item: USP-S | Monster Mashup, Price: $16.87, Percentage: 12.7
+07/16/24:17:08:16
+Item: P2000 | Wicked Sick, Price: $3.40, Percentage: 10.6
+07/16/24:17:27:18
+Item: MP9 | Airlock, Price: $8.08, Percentage: 10.0
+07/16/24:17:44:15
+Item: ★ Survival Knife | Slaughter, Price: $240.80, Percentage: 10.2
+07/16/24:17:51:08
+Item: ★ Kukri Knife | Fade, Price: $725.00, Percentage: 11.8
+07/16/24:17:51:40
+Item: ★ Kukri Knife | Fade, Price: $725.00, Percentage: 11.8
+07/16/24:17:52:10
+Item: ★ Kukri Knife | Fade, Price: $725.00, Percentage: 11.8
+07/16/24:17:52:39
+Item: ★ Kukri Knife | Fade, Price: $725.00, Percentage: 11.8
+07/16/24:17:53:10
+Item: ★ Kukri Knife | Fade, Price: $725.00, Percentage: 11.8
+07/16/24:17:57:20
+Item: AWP | PAW, Price: $4.20, Percentage: 11.8
+07/16/24:18:05:20
+Item: Five-SeveN | Fowl Play, Price: $2.31, Percentage: 14.2
+07/19/24:16:44:26
+Item: MAC-10 | Case Hardened, Price: $5.83, Percentage: 12.0
+07/19/24:16:44:55
+Item: MAC-10 | Case Hardened, Price: $5.83, Percentage: 12.0
+07/19/24:16:45:23
+Item: MAC-10 | Case Hardened, Price: $5.83, Percentage: 12.0
+07/19/24:16:51:11
+Item: M4A1-S | Bright Water, Price: $22.03, Percentage: 14.5
+07/19/24:16:51:39
+Item: M4A1-S | Bright Water, Price: $22.03, Percentage: 14.5
+07/19/24:16:56:19
+Item: MP9 | Rose Iron, Price: $5.30, Percentage: 13.0
+07/19/24:17:31:42
+Item: Huntsman Weapon Case, Price: $7.70, Percentage: 11.0
+07/19/24:17:32:09
+Item: Huntsman Weapon Case, Price: $7.70, Percentage: 11.0
+07/19/24:17:32:39
+Item: Huntsman Weapon Case, Price: $7.70, Percentage: 11.0
+07/19/24:17:33:10
+Item: Huntsman Weapon Case, Price: $7.70, Percentage: 11.0
+07/19/24:17:33:39
+Item: Huntsman Weapon Case, Price: $7.70, Percentage: 11.0
+07/19/24:17:34:08
+Item: Huntsman Weapon Case, Price: $7.70, Percentage: 11.0
+07/19/24:17:34:36
+Item: Huntsman Weapon Case, Price: $7.70, Percentage: 11.0
+07/19/24:17:38:09
+Item: AWP | Lightning Strike, Price: $480.00, Percentage: 10.8
+07/19/24:17:38:40
+Item: AWP | Lightning Strike, Price: $479.99, Percentage: 10.8
+07/19/24:17:39:10
+Item: AWP | Lightning Strike, Price: $479.99, Percentage: 10.8
+07/19/24:17:39:37
+Item: AWP | Lightning Strike, Price: $479.99, Percentage: 10.8
+07/19/24:17:40:05
+Item: AWP | Lightning Strike, Price: $479.99, Percentage: 10.8
+07/19/24:17:59:27
+Item: ★ Bayonet | Marble Fade, Price: $561.36, Percentage: 12.1
+07/19/24:18:37:57
+Item: AUG | Death by Puppy, Price: $7.92, Percentage: 10.0
+07/19/24:19:45:11
+Item: Five-SeveN | Case Hardened, Price: $7.00, Percentage: 10.3
+07/19/24:19:53:48
+Item: FAMAS | Styx, Price: $2.20, Percentage: 10.3
+07/19/24:19:54:18
+Item: FAMAS | Styx, Price: $2.20, Percentage: 10.3
